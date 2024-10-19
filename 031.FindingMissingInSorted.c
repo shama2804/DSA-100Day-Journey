@@ -1,8 +1,8 @@
 #include<stdio.h>
 void main()
 {
-    int A[10000],B[10000],C[10000],n,m,i,j,k;
-    int low,diff;
+    int A[10000], n, i;
+    int low, diff
     printf("Enter the number of elements in the array A:\n");
     scanf("%d",&n);
     printf("Enter the elements of array A:\n");
